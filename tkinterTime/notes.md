@@ -1,0 +1,3 @@
+# Getting Some Experience with Tkinter
+I've had it up to hear with tutorial after tutorial. I'm going to try a thing. I jsut want to see if i can make a gui with three buttons that start, stop, adn  reset a timer. I'll need to look into whatever time package python has, then it's probably just 4 methods i need to write (start, pause, reset, quit)? I think i'll need 4 buttons... 
+It will be fine, we'll make our boxiest friend on this beautiful May 27th of 2026 around 8:32pm.
